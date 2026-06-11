@@ -1,0 +1,7 @@
+flask
+pymongo[srv]
+sentence-transformers
+huggingface_hub
+pypdf
+python-dotenv
+ollama

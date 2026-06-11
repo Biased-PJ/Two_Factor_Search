@@ -1,0 +1,17 @@
+# Credentials and Secrets
+.env
+
+# Python environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local OS metadata
+.DS_Store
+Thumbs.db
