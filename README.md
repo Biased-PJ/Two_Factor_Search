@@ -411,12 +411,6 @@ If you'd like to improve retrieval quality, optimize latency, or extend model su
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ⭐ If you found this project useful, consider giving it a star on GitHub!
 
 It helps others discover the project and supports future development.
